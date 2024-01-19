@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\bin\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\bin\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\bin\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\bin\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\bin\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\refint\KelimeninIlkHarfiniSonunaYazma.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\KelimeninIlkHarfiniSonunaYazma.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkHarfiniSonunaYazma\obj\Debug\net8.0\ref\KelimeninIlkHarfiniSonunaYazma.dll
